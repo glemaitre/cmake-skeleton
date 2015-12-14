@@ -1,4 +1,4 @@
-#include "common/dummy.h"
+#include <common/dummy.h>
 
 int main(int argc, char *argv[]) {
 
