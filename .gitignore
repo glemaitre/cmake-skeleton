@@ -33,3 +33,15 @@ install_manifest.txt
 *.exe
 *.out
 *.app
+
+
+# Emacs file
+*~
+
+*.user
+
+#build dirs
+build-*
+
+# Ctags
+src/tags
